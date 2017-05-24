@@ -6,6 +6,12 @@
 	margin-top: 20px;
 }
 
+.info-col img {
+	border: 1px solid #ddd;
+	padding: 3px;
+	background: #fff;
+}
+
 .menu{
 	display: flex;
 	padding: 0;
